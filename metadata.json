@@ -1,0 +1,5 @@
+{
+  "name": "Research Link",
+  "description": "An AI-powered platform to augment the research process by ingesting research papers, identifying thematic connections, recommending collaborators, and providing an interactive conversational interface for data exploration.",
+  "requestFramePermissions": []
+}
